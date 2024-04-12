@@ -15,7 +15,7 @@ echo "
 🌐 Open the RStudio editor here: https://$CODESPACE_NAME-8787.app.github.dev
    - (This may take a few seconds to load, retry if necessary)
 
-🌐 Open the JupyterLab editor here: https://$CODESPACE_NAME.app.github.dev?editor=jupyter
+🌐 Open the JupyterLab editor here: https://$CODESPACE_NAME.github.dev?editor=jupyter
    - (This may take a few seconds to load, retry if necessary)
 
 "
